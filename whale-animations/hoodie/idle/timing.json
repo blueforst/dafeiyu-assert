@@ -1,0 +1,94 @@
+{
+  "skin": "hoodie",
+  "action": "idle",
+  "label": "待机",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 160,
+      "sha256": "6145e88974056dd43195e330fec21b3aa2d16fae758c808299c631753f70d62d"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 160,
+      "sha256": "66365e8a9bf3bf6e451c861e14ae7c1b1f005f876989e8138f49851522b28461"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 160,
+      "sha256": "83a5c76b6bd1a73c5f33a5089ef5a4726d5f8591f1444c950bc24eb11d1b00d2"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 160,
+      "sha256": "2b9f4b6ba91e406ae23b90c94e3ccce36ac2539cedfa694346521bc7c6cb67ea"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 160,
+      "sha256": "adc1ee694c714d51063fecc8845c43528ceaa943f43bfe89a5022f8d9c697cb7"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 160,
+      "sha256": "6a22564ec2ab0d251575920d037492831046c53d43ebbd624589ea3ccf900d86"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 160,
+      "sha256": "c154fab119b8215cc3e86597b5a5181f13a6ca9da6dec915cae0a0455bce4752"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 160,
+      "sha256": "7d541f06cfa83242d484edfc74b2247323e2addbb2e2af67eabed7c285bfa1e1"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 160,
+      "sha256": "667a6da3f33980aef484a9d2785a4db160d9cf58b6c5c5a56f1bbd45eccb0907"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 160,
+      "sha256": "860603580e7b074711e7077df7275e090d8309f360e1fa50e9ecb2fd82b1125a"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 160,
+      "sha256": "779161fc8cb4ff980ad7bfb89f3c5cce41c004ff1948129fcf01d3c06447090f"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 160,
+      "sha256": "0913a0fc7ebf0177c2ab2854c32ef4110821be910000dc33ab5c4798a42b6828"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 160,
+      "sha256": "1813484d9035b841a018c86ff02cd197fecc7d8589e4e4f4afd9f08123d40df4"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 160,
+      "sha256": "998132e8ed3d3c2d09131d975a139e9bd0edbb516bd6eebd6f9c0b7187300862"
+    },
+    {
+      "file": "frames/014.png",
+      "duration_ms": 160,
+      "sha256": "793afd7f191829b6c6c1006dcc10377040f8b8336b9d62125e46e6c3f05f692a"
+    },
+    {
+      "file": "frames/015.png",
+      "duration_ms": 160,
+      "sha256": "c1e2cb7ff0ee29ed0cc1cc000b71c2b79b1ad890466bfa8cf48012ecf0b1db2e"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2560
+}

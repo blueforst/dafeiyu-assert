@@ -1,0 +1,54 @@
+{
+  "skin": "hoodie",
+  "action": "sleep-exit",
+  "label": "醒来",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 130,
+      "sha256": "dc301464e087dcbaac27d8e36b697e7dde683d2fbbd02daf8daa68bcdb90a604"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 130,
+      "sha256": "ef2012ed783b5dad32a48989a9dd4e62a19a0301e3426991854bc8954e42cdb6"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 130,
+      "sha256": "fbc15b6264c46cbe8717ecb14a860c47f70655f878563839a2e3e653bef5c237"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 130,
+      "sha256": "27df2e0007d6dd6796db408be9d7c1e06f1c568e65def78f7433ed82aeb1b63d"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 130,
+      "sha256": "97bd964a3cc844dd6ed5c14971182cc6012081a190e3fb1d8372ca4f9c859775"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 130,
+      "sha256": "4e14e4c82bde545e204a7c41b4fa693ccd1652b2584b41e4deccb2e1ced28221"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 130,
+      "sha256": "e8ea469ae774df022ed62e6d56c1c2ed28bb91a8b37518e74659008b33ce2d78"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 130,
+      "sha256": "58ebc7104e6597a22ce6691f5810d313513a1ae540cc601b73a8b81ac307b066"
+    }
+  ],
+  "reverse_of_entry": true,
+  "total_duration_ms": 1040
+}

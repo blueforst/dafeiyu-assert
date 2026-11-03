@@ -1,0 +1,54 @@
+{
+  "skin": "winter",
+  "action": "sleep",
+  "label": "睡眠循环",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 400,
+      "sha256": "627701d2ac22ddd89c52e2f88fcd85bd631c25640877f9e140c2bb614843169d"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 400,
+      "sha256": "921366c53fd36f7d835127ee79747434c37a62650cde58c5094eb73f10c833fa"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 400,
+      "sha256": "9ab92b712db562dccae55c59b8792633bd40a3d5b97bb3b685dc76f3898df1ef"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 400,
+      "sha256": "033c4cbe1e2f39d7a19174faeea8a71958712fe4789853e7135be84cda77fb74"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 400,
+      "sha256": "b855375e0c9916812834803cbb911250f173751e60d0cc8789cc2d34d2212421"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 400,
+      "sha256": "1ca83f3bbc2309b05a9d7d36863626e0ee7d095fb2e0f04d29fdfe0b5bc0e931"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 400,
+      "sha256": "b819aacda40c40e52c175fba4711fa319f5f0af4a598273cf9430e881d13b7ea"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 400,
+      "sha256": "5a82f3306a4b80e1e416becba82c70ef6543e0d779baa23935bb5e88eec4a211"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 3200
+}

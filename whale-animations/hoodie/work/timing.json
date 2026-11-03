@@ -1,0 +1,94 @@
+{
+  "skin": "hoodie",
+  "action": "work",
+  "label": "工作循环",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "e5d9010ac270bf1d5529e4ab8fe1c6ae39f2827e4b30dd236e3d24ee2493cf22"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 180,
+      "sha256": "e027befe87c130479f3b3d6eeb44ed822722d89adf6426f919571e3df70732f3"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 180,
+      "sha256": "dd6f7388753617aa126afed9613174f9014196e95da7feb7c6089635603135c3"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 180,
+      "sha256": "34a1fbf5253bc2eb8203f66a4628de725be3c88f1e6744b1c0d5193aa7e08fc1"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 180,
+      "sha256": "fd888a8f173358dc84a747d07549446bddfbc88902c401a232551ecfc875bb73"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 180,
+      "sha256": "861f918ebc98fd92ceacd32f3e408d4c0bebb767527d46ec2716482343c3573b"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 180,
+      "sha256": "12bbc9d96ae16f60acab6a07d8f2e167af7d1cc6233875e658eb030422bcdbc5"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 180,
+      "sha256": "121ab9a94e01192e45908f9e719216177bb108de0c4d4ea664baadaa1d9853d4"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 180,
+      "sha256": "fe69ac1fa09936d7118f64288fd2fc420401738dba81d5a47c4d41361ac8ac24"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 180,
+      "sha256": "93e3c6a5cbe73b90d7f76e026d1b67c53f540dcdd68791e40eb5bde175528c87"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 180,
+      "sha256": "fa3f1d9bb405fe0777348f539cd3f92a84c1b1e7e5b8692ed31fea0c28905ea4"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 180,
+      "sha256": "6ef1c88549246e5f3ddb697012f8aeaa7f11d014b26f828d3ddb93d48cc14b4c"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 180,
+      "sha256": "534cf7bc9e9b96a899d19b5b3f7309767280fd23e8f08dd0d5273f325d2ca9ba"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 180,
+      "sha256": "6f331cc88e30097d3ade3b34fa4c941a907ee4c333179ff7b1cfec199b6fb0b5"
+    },
+    {
+      "file": "frames/014.png",
+      "duration_ms": 180,
+      "sha256": "d15079f6975c73a75f8a278a1cd2539c84ed3aff8482d312a57486f13189530f"
+    },
+    {
+      "file": "frames/015.png",
+      "duration_ms": 180,
+      "sha256": "650be54cf4d2c1644c75c757ba18ef24ad6c945ddb120bc3cd30461a198b0c8b"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2880
+}

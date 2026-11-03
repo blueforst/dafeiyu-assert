@@ -1,0 +1,74 @@
+{
+  "skin": "winter",
+  "action": "sad",
+  "label": "难过",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "59f06e13dcaf7041173116dcee7bef7cfd88fe4ad8b2cc02077c727348bf918f"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 180,
+      "sha256": "66e04d7ffe5bcd548c0829ac944ccf3bbc413fa7129665e8af39669d266b8cbc"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 220,
+      "sha256": "dfc90540c7532aa1a600998c30780bc45f7086cdb0795919f4d50c3441663ec6"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 170,
+      "sha256": "bd981641c81fcc61d09aeaaa3077c3ffc4860b1a8fc3c64ba7b01bdfda9c04a9"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 220,
+      "sha256": "e467bb498fa0b37c4005b58ee95659580f5d66b008546f221e09a4da8b41f80a"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 180,
+      "sha256": "00b3670f5c01617a76bb610bbaa8b36d72155fff79d9083466ec531e22d54b20"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 240,
+      "sha256": "87a6c8636d93c16fbc2b7ce08279438daae427de04c8f4335f4d3b1cf46318ca"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 180,
+      "sha256": "f3c5bc53c9cfa237f13a92f15c3f9687617723bc948b555721f413a4484fea12"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 180,
+      "sha256": "bb322503d5cb8dda0f5938740d22f1c0ea4b15d3138018bf66e47a867071f8d4"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 180,
+      "sha256": "036e5ccd619a7df6f3dcda9237b8542015d54db3d57b36f4e5bc2a325d7ed9da"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 180,
+      "sha256": "538ad825b34936e140259a429b5fdb2a2727bb79ac378c1ffa6d843ecf72aabf"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 220,
+      "sha256": "e2bfd801efe57357ff9957db4717caebdcd19f6ec7020bdb3b52ab0008199cdc"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2330
+}

@@ -1,0 +1,74 @@
+{
+  "skin": "winter",
+  "action": "confused",
+  "label": "困惑",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 160,
+      "sha256": "b401d6f936095ed819bb9ce9a1bc9768fd4f0cd658fa9eccbd56bced18d802c8"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 160,
+      "sha256": "8426693e9239e22a20a5551fcb24279bd67468536e541107e10f64698caaf320"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 160,
+      "sha256": "0737657b1fadd4f378154c77e5777f1873f86b16bd601ca9194c980155629743"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 160,
+      "sha256": "7eef9772a77e37d83c528d1ec782ea1bb67479fb920d76a240cf129f9ef8d772"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 160,
+      "sha256": "331aca9cd1b7d5cc5de4d8a4149dbb387060b4ae0558a2370c845c4639e214da"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 160,
+      "sha256": "41f0d864ac0e0e1f460eef54cadf0e611edad8dedd8fea8ba00f7bf06fb3ece2"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 160,
+      "sha256": "c14e37af70e1b19d2cfb830fc355aa4a42277b73c0e7c1f23fa6edf033745eaf"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 160,
+      "sha256": "06227ce382cefefa4c4a6f656231d0364a48c411ac83b035123de1c0b2d1ae9f"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 160,
+      "sha256": "c50c55c7416afa1cc001dc4837697ca870e17ed25f4c23b2b90bfef5f56ce410"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 160,
+      "sha256": "4afaf75c7e2d190e66aafc83ecd78ed9af7c24070a4398492a132bea0ace9359"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 160,
+      "sha256": "99518176eeb862b00afad285bcdc33f65050e0cbaa8fa22dad4eba79f3d7d0bb"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 160,
+      "sha256": "1841e315aa3c864c1f7955405151049a7321f2976dced17603192da1edceadf3"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1920
+}

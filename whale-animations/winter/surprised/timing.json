@@ -1,0 +1,74 @@
+{
+  "skin": "winter",
+  "action": "surprised",
+  "label": "惊讶",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 160,
+      "sha256": "d85ce38a8dbf7dacbae4d7b037325ba4a31a5120488a6caed6b137890f53506a"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 160,
+      "sha256": "02c6f4d7f36ff3facd2cfa07346b2a0562b52045e54f81e29376197cf7f7b769"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 160,
+      "sha256": "753648e2bae66167fa89717d3076ffa5eb6a431a658da7bef27a1b3b4a2cf4ed"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 160,
+      "sha256": "9560d18be4d3cb83acb5a84448c9be7498e14bc0ea3324d6f12794a360414bb6"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 160,
+      "sha256": "8573ac9f87f0f0a7e8f43304a9dcf926462a1de140af2d1342e67d88c40f576b"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 160,
+      "sha256": "4ba4c7cac832733b945579fb9ca760b20ee563c864657ad7962a13c8d7442837"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 160,
+      "sha256": "96daca9c3e2a1844ff0ee7fd56061707c58013237325f0720f336463b6777024"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 160,
+      "sha256": "835769ef4aebfa4b37ab77fdaa6d1f01fcd9afeda1dad1e97f5cdd6485bc6a60"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 160,
+      "sha256": "3179a803254d5d42ef0023056f6b6b4d848c283c963c2d3ac282c88eca15ad56"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 160,
+      "sha256": "f45b67ea892c4ef43d9a22d2cbf51956d3c0b6fca8c50ff06c0ac5893e97aa34"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 160,
+      "sha256": "a935c86cccf11e0b162bbfee1f1cc0dedd20d923726cbb5370031bd4ff731ca7"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 160,
+      "sha256": "35cee9bf15789de0ca92fa88a025bdf5a3c89ef886965d574c9a115799399dd5"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1920
+}

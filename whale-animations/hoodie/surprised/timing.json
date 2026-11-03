@@ -1,0 +1,74 @@
+{
+  "skin": "hoodie",
+  "action": "surprised",
+  "label": "惊讶",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "b4e344efffa79b23cc296adfc010a46abb84a225c5a9392fc76fd0bed4a9a80b"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 120,
+      "sha256": "a96fe6512910f3bc2c0eedd948ab0a5744afba61d1fc0f522d58231d04baf851"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 120,
+      "sha256": "0457db7976f8fdf2f5dc4e7031d608a17fb7c0b0821d5c5ba95940839e11bf88"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 120,
+      "sha256": "e0b297b4ef086e164a763cfce5cc99551b61ab2602f2c378b25a787b37baa617"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 180,
+      "sha256": "e7aa6ead053cd8741659539955fdd35d65e2d418a151a8c1f65109bb785f868d"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 280,
+      "sha256": "82c7ec3322abfeb5ec55b705f3bf35b97a596f1a81e223d1b68a9f08e7c9326f"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 160,
+      "sha256": "def2e42a33560e51e5748c5f0badddef06d9edf18b74394fc36ccf60cbb6c4e1"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 160,
+      "sha256": "8c02ce80e945a88147f3f082027ad19a69be8cbe3732566c10b6a471aa33ae98"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 200,
+      "sha256": "2a0e9c96231bcec5b4262bd878c97fd98065f4be23ff7a328ef33e9ec21e617f"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 160,
+      "sha256": "92f0c1fa4ed9a71b884b67c12bbf6f0106d8073d8038d062ee4cfa23001e8995"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 160,
+      "sha256": "8a657ad35c8448e426d82331d12c44e9abbe9e82fa846598127b7014a74c4f66"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 240,
+      "sha256": "1d0901deecfed25859ee876edc21f1f05079ba5f8b8075cffaf6f6a1f86b1a04"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2080
+}

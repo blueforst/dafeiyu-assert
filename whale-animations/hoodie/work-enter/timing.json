@@ -1,0 +1,54 @@
+{
+  "skin": "hoodie",
+  "action": "work-enter",
+  "label": "进入工作",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 130,
+      "sha256": "b93703e8cbc91b1505eefbf8f53ad2e1cc533dfaa457e8dc50d218c21dd433f5"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 130,
+      "sha256": "e928c840bd8aefcb6c2a8dc6eda06c58dd0473d81d373cb8435c384dda648a62"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 130,
+      "sha256": "d175af425b6ac836d63ec3e9dd2870260983cffd6262717493491710b3f1fb1d"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 130,
+      "sha256": "23318339135811ae4f06f7dc531168e34bdce1882979e7eb5bc5722d62d85c3b"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 130,
+      "sha256": "de0f809131fc4df48ac7398d81bb6e40a88b0ebcaa833bf74ac3312c4372bde4"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 130,
+      "sha256": "0c787d9ba34a5db952e60c53c4f1118cca515ffe51be253f5cf9cd00c8ffc1d6"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 130,
+      "sha256": "14e714c37169a3a9dc824e300ecaaa3b0bf761769b24030705fe4a21fbb3642b"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 130,
+      "sha256": "1967faab41e5ae7eb0cdaa8e581b36aa7e2b34cbeaf91135900108dae11b6168"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1040
+}

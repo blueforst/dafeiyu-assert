@@ -1,0 +1,79 @@
+{
+  "skin": "hoodie",
+  "action": "happy",
+  "label": "开心",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "ed3d1b69ca765f7c66e1fba438bdc1cf628a04b26561ee51c410b21be69ee152"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 140,
+      "sha256": "f6c4161c87cee2777fb652af97da59ab2b0b8169828a873044793eae48f60243"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 140,
+      "sha256": "657d40f582cff4387919c78aaeb051385eb5370c90ab135dd03a2b651963002f"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 140,
+      "sha256": "7bfc6de25b0d70d727fc138e54f51b31e9c92f4a20c25633cec914984b6e05d7"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 140,
+      "sha256": "2b7e9b2e83425ff844f624d6e518c1ab74dbf487e697b6d7fee096fe2b66103a"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 140,
+      "sha256": "7e7ec936a2b6658f2b7d4d6a3e48314c7ddd36cd31f21c349f0899c3b0d4661e"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 140,
+      "sha256": "b91c8b7f062def5413ab05afc7054d8a9bdd7564ca25b04b456191c5ee4c6c6f"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 180,
+      "sha256": "6377328449db784294c77d8615ef917a33e470e8952d761166c09e6ff40debb5"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "2b7e9b2e83425ff844f624d6e518c1ab74dbf487e697b6d7fee096fe2b66103a"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 120,
+      "sha256": "7bfc6de25b0d70d727fc138e54f51b31e9c92f4a20c25633cec914984b6e05d7"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 140,
+      "sha256": "f6c4161c87cee2777fb652af97da59ab2b0b8169828a873044793eae48f60243"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 160,
+      "sha256": "475f38c1cf0f54f0799bac38075e1ef4886f50dbcbfdcf46abbc7763a921416b"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 250,
+      "sha256": "446531bf1e0d4900ffeb4a1390bfcb113ae1c9f544407a145933ce5b8fe49faa"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1990
+}

@@ -1,0 +1,94 @@
+{
+  "skin": "winter",
+  "action": "work",
+  "label": "工作循环",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "67b9ec05d536d7dd5d837a8b71057dbf9205d6f3dde1966d3ea6d65877c5e7e7"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 180,
+      "sha256": "a40ba6f814a54fa93dd9bb8bb1187bfb72beae59524773448f1b99d872a9f22b"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 180,
+      "sha256": "46e6bed2a87181251945e959c19f8e61d79ed54509b4abeaccc5cd55fee52211"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 180,
+      "sha256": "c389f727a2019c2aaf958fbc9740fee78f168fc891f0097b4dea25da201759a5"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 180,
+      "sha256": "7f5b92dcbf44b21e31b8980650d69b2829efec7d955e2fded895c3ab44e47351"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 180,
+      "sha256": "6a3a1ea41ca848370d36d69dc433c6bfe5e2b4ffdd67293526372b4809bb0f4b"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 180,
+      "sha256": "72f9fe93eaa860415e65045bb586bc2541d3644fc688fe84345fec613212bc76"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 180,
+      "sha256": "6c3794b56c2841eea82bb4ffba5c0c10a86ac2f0edd71b1e8187072f729ea29c"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 180,
+      "sha256": "272a1e23005a25346f5c722203f0094c88f4113b2ad1c12828cc938cb0b2dc5d"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 180,
+      "sha256": "293e1ebdbc30f8ad8ced4c8ce1f5bb3be44b9fb7134ebf14d0bc44588065e29c"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 180,
+      "sha256": "183963a1075a0f6efc5910ae7a7f7d2174a51f2432e25959c060cd85a8bf1df0"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 180,
+      "sha256": "b1c40e7b3bf4bb7d9c25f186ce6806bd0054760b0e3cc234cfc8b7ae92c9d063"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 180,
+      "sha256": "ddd793d9ced1b2a5a5861e00f79994fa6d5cd9e4019a5dad8ff99161de92f660"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 180,
+      "sha256": "f528f363507bfe1bf09623bd581c92fa98cf4a0e0076dbc9b70c1763a66e901a"
+    },
+    {
+      "file": "frames/014.png",
+      "duration_ms": 180,
+      "sha256": "32c99ee040dac812222d8995892643b761ba76f014a525e913bdd75e47379a94"
+    },
+    {
+      "file": "frames/015.png",
+      "duration_ms": 180,
+      "sha256": "9032815c514f1be16b22fb1a4379bae53b7403abb02ab95212aea11082b716e0"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2880
+}

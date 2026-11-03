@@ -1,0 +1,74 @@
+{
+  "skin": "winter",
+  "action": "happy",
+  "label": "开心",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 160,
+      "sha256": "d69e7376e96526245da05247404fd6789799bb671a0433147137bfddfe6ad8c8"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 130,
+      "sha256": "6ce5d6379c68ded0a2bc314184813bc7f26c1a3a8a397d442732a72cf005fc28"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 130,
+      "sha256": "3738d3074b03d786af31afd22ac6dc909bc310e726f4c1a934643041ed079554"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 100,
+      "sha256": "215493a1ba47ed152931c9a94c66a280ea7934d51adfa91e484c97812f50c28f"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 110,
+      "sha256": "dd571c50109a730f12937c99576427dda53eff84feb29f472b431efd82d3e30f"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 100,
+      "sha256": "46caf8c1e1b42506a12ad1d26dbcdc4af0f47d3ea7a0e4a0678f4f57fb03eb77"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 120,
+      "sha256": "4c42f044a56e6a4d8b397d65cf10666bdc487bf829989f1fe0dfa8a0691aa2db"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 180,
+      "sha256": "59e946194cf15b86785dea18ee802a651b25fab4fed782109b730c601d5e0758"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "af6c6ef9b992e254142e7f1a66859f560341d260dcd05c2d6e8a8bfe30d5c622"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 140,
+      "sha256": "a1d8c6b6408d77f948b0fc07bc9456462410daac15e0af846e0f71b0e3e29c3d"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 160,
+      "sha256": "1f7c1fad21ad25b71b4a4e79c89b62766af0f5e7e3cc1208b5cef32d95707857"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 240,
+      "sha256": "b7e7d0e452b4059dac5a5bcbcb093f33a1eda023f86c39d30feb5157daadacb4"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1690
+}

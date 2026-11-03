@@ -1,0 +1,74 @@
+{
+  "skin": "hoodie",
+  "action": "sad",
+  "label": "难过",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "bedf7e9ec9c825ad9132e8638df9569088f6631cd55dadcf7f8b16abe132c5dd"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 160,
+      "sha256": "2394606d88ad845ceaa710570c5e45ce302c0fa37823ea67e35ba535926e2d16"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 160,
+      "sha256": "a541783dcb8e298691ee4c5a7151ed22247419f3e4be801ab40d1e14801fae31"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 180,
+      "sha256": "1faf857c9d1f581354f9f9ca12435e551ce118b9b1688b0e82e7d119ebc57fb2"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 220,
+      "sha256": "54bc2dd80e5b4057e452ca51e970d939d952f99c8bb645e3f1cbd544aeef5e67"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 280,
+      "sha256": "b1566877c14d0e39073f25f56f207189dd6e0538cf2a51f4b02d875abdc19b33"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 180,
+      "sha256": "f050c52586587df9e637dbc8e31bb90ff90799a74f0a0234c8673ae14f95b9c2"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 220,
+      "sha256": "b54e27639674f6acec98b6027bde22f5bb89ee201d91dbc886f75941a5ec09a3"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 180,
+      "sha256": "b7c7c70033a3c336bd8575bce7b4c8e5d0e19951b7918fcfbdf07dfd93d973d3"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 180,
+      "sha256": "35b0770a69a2d8addb3c96a32906d6777ec1cacbb71144d6ea027be0a8946c09"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 180,
+      "sha256": "5668768aafcf7d194005e61292c5a54fa16ae3b24f499434fca2649c755462e4"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 240,
+      "sha256": "b1c9a162d0f9a0c6b7a9f580e0eb850be410ce234e01781030d39826c12b2fc7"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2360
+}

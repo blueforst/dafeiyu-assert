@@ -1,0 +1,54 @@
+{
+  "skin": "hoodie",
+  "action": "sleep",
+  "label": "睡眠循环",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 400,
+      "sha256": "419dce30ae322495863f7207742ac7fb5370d065d88ce60ff3fccff0e3e79667"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 400,
+      "sha256": "c819451b5998bff4ef80611308bc8532aa71cdb24dd9430d083f642e777c4786"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 400,
+      "sha256": "9bc94bad703bbee8187c1ddd54e2a20d1490742bf1155870a9c2a4abb7c1bc7c"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 400,
+      "sha256": "25e08178a8ac067de3ae7207f1f8443e1c811aabae4bad13441f326b04a77431"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 400,
+      "sha256": "1e0be2572f86314f762cd9689adecd9350daf1e545891dd7d83bcc415c34df47"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 400,
+      "sha256": "d16c17127197dde53bcfbf66517fbdb440d3db36f88d0b7637f46a1483f4c0a0"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 400,
+      "sha256": "90c48c9f92dbd76d5557ca00ea298c87494750ef046e3c4410b3d7782506cf2a"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 400,
+      "sha256": "29bfb34442c4ec8b5fb690983122554029fb4deaf8f56f9e995c145bbb5f7f53"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 3200
+}

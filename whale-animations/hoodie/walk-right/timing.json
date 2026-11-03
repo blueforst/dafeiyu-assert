@@ -1,0 +1,54 @@
+{
+  "skin": "hoodie",
+  "action": "walk-right",
+  "label": "向右移动",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 140,
+      "sha256": "b9f9fb897b4940d69732f177054cbe2bcb2e87cc2ba89383420b5c97d496fa5d"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 100,
+      "sha256": "0b8d8f519ec71309b1dd1a465b63a355f7baf9ee85dcb233b0da5736914ee8de"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 100,
+      "sha256": "93fc3ba774e1f4862c865341433477e22d5634c4dfe85f71bee06a430f763436"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 120,
+      "sha256": "2ff047acd9e3e65b5f720db2ce458f3ca0fd36ff70000c04be7f609caf5bb887"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 100,
+      "sha256": "f613dfe11f6b2648aabc9d9a364ed90b43b180779c335c7365cea7fa3953aea9"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 90,
+      "sha256": "fa9087c33a9e9928fb593e3f99a493f4ad905fd60286b2c6b17ad384e704ac58"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 110,
+      "sha256": "417fa4ec9348f7db7e33d2de7dc6e1b44f0e6e508b9e73181316d49ef86e929a"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 120,
+      "sha256": "0c5b1206ac5859fc84edc4481362b53e7a958420c281109a4805f1aae0176d9e"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 880
+}

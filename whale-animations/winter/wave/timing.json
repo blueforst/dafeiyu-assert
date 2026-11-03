@@ -1,0 +1,94 @@
+{
+  "skin": "winter",
+  "action": "wave",
+  "label": "挥手",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 120,
+      "sha256": "73c27acccb8f7accced36ba846fd39c0c59b53cb6e0bd543c4cef7f2f0572961"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 120,
+      "sha256": "7da1848be803664062fa2f1fb8f4103f1455e12879cdb4f31bbc050c0d7156af"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 120,
+      "sha256": "d73335f2adbb344ce7e8454c241abfdc204c05ebf3c328cdf3799d8ab0fd4798"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 120,
+      "sha256": "12025c780715535948ffca84a575eba1c436a164cc30ed8715d65484bdac1f63"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 120,
+      "sha256": "b7536808d4b8efb81a911be2534ffeb601100bdbbea7c7240d0f99168bd8dcdb"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 120,
+      "sha256": "27f93005adcc68286d1070115c847d43eb7fa9d178eefb96302b80c6a64f7628"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 120,
+      "sha256": "f8b7cc8d1d65cfa8c3e87d0d49c0db4de700c17474f581551e82d83ff5ed74fb"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 120,
+      "sha256": "4046a78a291213878a1c27c9180924ba4bd8e7ed9301f0ea61a5c04df5745b82"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "391a51023ee4dcd4fd45926eb9de124007c553f0d8798da41d573f92d8894e89"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 120,
+      "sha256": "d7ca23f82c209332ed02f3e68969d192b9f18454b1fa4bb8ab266188c1665669"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 120,
+      "sha256": "e1ce4a33b04a9acfcc6dcc3f3b21e6e28cedfa4e1c96ff90ff19fb960ed15043"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 120,
+      "sha256": "d98be81008188aa415635a36d63100f1b76b457329e5684fdbb91e602d801e37"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 120,
+      "sha256": "ae564c2ce035678fb70373f9125878f0168471e2ed13dd54c6804ef1913fc026"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 120,
+      "sha256": "b58c774ebe7690fbaa149ebf4397dabad470f57921875a33ceae21d54f0c44c1"
+    },
+    {
+      "file": "frames/014.png",
+      "duration_ms": 120,
+      "sha256": "ad743970959bad96c6a1a71d07ae5dcd55369dfb3ea9aedb7c7168523c073622"
+    },
+    {
+      "file": "frames/015.png",
+      "duration_ms": 120,
+      "sha256": "66d8c39486e76f77ba4c9d05067b91cf19543599fc6e333f708ecdd05dd0fcfa"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1920
+}

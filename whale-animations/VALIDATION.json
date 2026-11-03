@@ -1,0 +1,198 @@
+[
+  {
+    "skin": "winter",
+    "action": "idle",
+    "frames": 16,
+    "duration_ms": 2560,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "walk-left",
+    "frames": 8,
+    "duration_ms": 960,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "walk-right",
+    "frames": 8,
+    "duration_ms": 960,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "work",
+    "frames": 16,
+    "duration_ms": 2880,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "wave",
+    "frames": 16,
+    "duration_ms": 1920,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "sleep",
+    "frames": 8,
+    "duration_ms": 3200,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "work-enter",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "sleep-enter",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "happy",
+    "frames": 12,
+    "duration_ms": 1690,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "surprised",
+    "frames": 12,
+    "duration_ms": 1920,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "sad",
+    "frames": 12,
+    "duration_ms": 2330,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "confused",
+    "frames": 12,
+    "duration_ms": 1920,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "work-exit",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "winter",
+    "action": "sleep-exit",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "idle",
+    "frames": 16,
+    "duration_ms": 2560,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "walk-left",
+    "frames": 8,
+    "duration_ms": 880,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "walk-right",
+    "frames": 8,
+    "duration_ms": 880,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "work",
+    "frames": 16,
+    "duration_ms": 2880,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "wave",
+    "frames": 16,
+    "duration_ms": 1920,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "sleep",
+    "frames": 8,
+    "duration_ms": 3200,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "work-enter",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "sleep-enter",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "happy",
+    "frames": 13,
+    "duration_ms": 1990,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "surprised",
+    "frames": 12,
+    "duration_ms": 2080,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "sad",
+    "frames": 12,
+    "duration_ms": 2360,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "confused",
+    "frames": 14,
+    "duration_ms": 2580,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "work-exit",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  },
+  {
+    "skin": "hoodie",
+    "action": "sleep-exit",
+    "frames": 8,
+    "duration_ms": 1040,
+    "rgba_and_timing_verified": true
+  }
+]

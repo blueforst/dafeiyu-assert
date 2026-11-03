@@ -1,0 +1,84 @@
+{
+  "skin": "hoodie",
+  "action": "confused",
+  "label": "困惑",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 180,
+      "sha256": "ec843a18ffb81a548179dbc1e660c40afa29f8a4340b5366268af1a9dcd4f54d"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 160,
+      "sha256": "a8ad74758e43a2244149b3396ec77da3487ef46c88cbd01a94400a54a3ca193f"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 180,
+      "sha256": "6bdfd8142bb3b7b2fa116ce9a99e52fffb5c6e3768353f64a82285ef5ab38f34"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 200,
+      "sha256": "e766da116535c9600d2ada47715fa534f892d83bec994c88a24b4e811411ad81"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 220,
+      "sha256": "ba7e4414dee2ea734d9fc1433b752bf8eb87dc55a10b52f6e32ad3dd5a0e85a1"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 180,
+      "sha256": "a8c4f06281a86999f23a27509f8d68718ffcd05b23cbc1fab31b6e0ef1290c72"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 180,
+      "sha256": "17ed85ae26a2def1824ac9766698ab2260d79773a5ed7c8b23cd1c508863d07a"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 240,
+      "sha256": "94b0231c4bf9cf4b6c093f42faf731237b8306ca16921c8fe39d15d01ce1f85b"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "a8c4f06281a86999f23a27509f8d68718ffcd05b23cbc1fab31b6e0ef1290c72"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 140,
+      "sha256": "6bdfd8142bb3b7b2fa116ce9a99e52fffb5c6e3768353f64a82285ef5ab38f34"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 220,
+      "sha256": "4ffff870f4a9103558bd09c5e7a2042cf67fbea3a6eca19ac06e7be8180c2612"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 160,
+      "sha256": "2e6f9c2628ec0fc7616e8d579d80a0ecdb454d2d1105fcb6719c2c9b4f78bf72"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 160,
+      "sha256": "4ee52e07fb94c9bfd0d9cbfa9a45e9187f3462ba7c6c90ee7924eb807254f6a2"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 240,
+      "sha256": "2ef470c359a227466983cd774a0cee491a230660a327bbd84ecf3f38829c2919"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 2580
+}

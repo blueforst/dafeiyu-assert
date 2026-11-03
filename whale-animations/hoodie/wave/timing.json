@@ -1,0 +1,94 @@
+{
+  "skin": "hoodie",
+  "action": "wave",
+  "label": "挥手",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 120,
+      "sha256": "cdc8684add0503287737aee2d1fe79b0d0b0edb13fa612be9000ba0d78875595"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 120,
+      "sha256": "1c555817fe093c5af00f7c163969bbe3aa4f9d4a188f22fe3de81e9c82c44e86"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 120,
+      "sha256": "a723c0a9c4e757f7df1786da5fe7656eea5324e2b26d38780e4d5ce1f945daaa"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 120,
+      "sha256": "ee362fbde18d85ad3fe54ddec0d02176b406b93dfc39ea4f91400d01ac41239f"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 120,
+      "sha256": "315f2e0874bf0828cd1f8cac9c14f8dce25dcea267b173be3265f98eb33ec7f7"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 120,
+      "sha256": "abfda9900a8aef1174950739c44dece2ddee6de35c6d929e855d7f62e8b8a012"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 120,
+      "sha256": "de3455896a4bfeea7c9c84538f888814c2c1695d8b68956b877466d93ee44e76"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 120,
+      "sha256": "eb347c8a08fe9b9041f0e9aa182fd739c1b7068cd9dd6e4e260d5aeefc1c8836"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "f9b7b8dc2c1d7cb020774d401700b27372d63792ed029c30d6560569cad7db13"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 120,
+      "sha256": "04d4bcbe5eeab1e4937ab62c03cb1541d7239bb445b13716e71715ac4b1fa4a1"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 120,
+      "sha256": "aa22ca5c10b5931b3410aa76fb5e5acc4da4329b4789a2678b0ce7b081d636a0"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 120,
+      "sha256": "d6ea94e8cf95f8e67011ba40478c363c86eeed903eeb635e88a4e058d60b834f"
+    },
+    {
+      "file": "frames/012.png",
+      "duration_ms": 120,
+      "sha256": "3dd26d69f540216434e892e964981aea0da7d1f415a7d4cfc50c7dcb6cc0b6cb"
+    },
+    {
+      "file": "frames/013.png",
+      "duration_ms": 120,
+      "sha256": "6636eb7fa6f4c7dbdd26ac10e4f637f0e90fd9a2a802e8a31d227ccbda73d6f2"
+    },
+    {
+      "file": "frames/014.png",
+      "duration_ms": 120,
+      "sha256": "06f89dfa0a92fde3912d3293ac26ef2502d0814c18b3b3723ee2d28fc456fce3"
+    },
+    {
+      "file": "frames/015.png",
+      "duration_ms": 120,
+      "sha256": "50336fc58bae033ab01658d08e9eb612d64a4fd35e6deceac6c81b624956090e"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1920
+}
