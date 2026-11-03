@@ -1,0 +1,82 @@
+{
+  "skin": "classic",
+  "action": "surprised",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 160,
+      "sha256": "668b5101c370ec038afc8280d20abc42efd1241de8f3a0ffac892bec1f8ba22a"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 140,
+      "sha256": "3a5300c4941d32601e346ccd79f114ccd12768548e06dd1314c8b3da9322b894"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 140,
+      "sha256": "53a278f3878f07c7e5af0dbf22a28d5c3b303f9e9e172de5e5132e5e1a91cdcd"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 140,
+      "sha256": "d2b96b2a7e095239ada8fa0b7fcc92a8c1aef1ed6fb0b98a3929701a1f4e2342"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 160,
+      "sha256": "58b06107cb945acd26d826271916f35fa3d76e301e4b2672187f0ae240abed60"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 300,
+      "sha256": "a3682ce7b3fd73329ed8b5addcd4a0fc3747fa163c7bf27b4a0acd6701a7ef02"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 180,
+      "sha256": "506c22b4425e2591da82b02459b3d7ae238bb2095c4bef654e6541cb2422a4ef"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 160,
+      "sha256": "4f26f6e3ceded01d6fd96170951f1fcfcd252fc99413fd2a3dc10f61e8a8e08a"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 160,
+      "sha256": "32d98b517dbc12d9cc563c489897f932e833ffcf92862845d1bf58bdb4f1f392"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 160,
+      "sha256": "7e79169339a816760afc33b67bc6af713ce2618c1bcee94f8b6c9e7bdd1c57b6"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 220,
+      "sha256": "1fdbbd31cc41c1d32536f2f8f2fcfa9263a3abbf152d7aa8b46684a155b8b5d5"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1920,
+  "source_pose_indices_zero_based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "unique_source_poses": 11
+}

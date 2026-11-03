@@ -1,7 +1,8 @@
 # 大肥鱼动画素材集
 
-两套桌宠动画的正式尺寸修正版，包含透明 PNG 逐帧、APNG 预览与逐帧时序。
+三套桌宠动画的正式尺寸修正版，包含透明 PNG 逐帧、APNG 预览与逐帧时序。
 
+- [原版女仆小鲸](whale-animations/classic/)
 - [冬装小鲸](whale-animations/winter/)
 - [工牌小鲸](whale-animations/hoodie/)
 - [使用说明与来源](whale-animations/README.md)
@@ -13,3 +14,4 @@
 ## 权利说明
 
 冬装参考邦多利素世，工牌装三视图含 lmy414 AI补完；来源详见素材说明。第三方角色原始作者及商业许可尚未完全核实，本仓库不授予第三方角色的商业使用权。
+

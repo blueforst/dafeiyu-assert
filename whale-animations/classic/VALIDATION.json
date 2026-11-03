@@ -1,0 +1,72 @@
+[
+  {
+    "action": "idle",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "walk-left",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "walk-right",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "wave",
+    "frame_count": 12,
+    "verified": true
+  },
+  {
+    "action": "work-enter",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "work",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "sleep-enter",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "sleep",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "happy",
+    "frame_count": 12,
+    "verified": true
+  },
+  {
+    "action": "surprised",
+    "frame_count": 11,
+    "verified": true
+  },
+  {
+    "action": "sad",
+    "frame_count": 13,
+    "verified": true
+  },
+  {
+    "action": "confused",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "work-exit",
+    "frame_count": 8,
+    "verified": true
+  },
+  {
+    "action": "sleep-exit",
+    "frame_count": 8,
+    "verified": true
+  }
+]

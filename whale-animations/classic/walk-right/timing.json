@@ -1,0 +1,55 @@
+{
+  "skin": "classic",
+  "action": "walk-right",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 110,
+      "sha256": "dc6d61df174c2caf754a681737e468876dafb5c2b9cbccfe0e42d03136c74792"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 110,
+      "sha256": "7265449e00063130e15e985893d9bd56fe9d49188cc3983f95fbefc337f626db"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 110,
+      "sha256": "a8520b69d70b4464ab83583e3d77fc3db0d5e80d16d702086649d6caf3a86d1a"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 110,
+      "sha256": "00b2a47a2769ec0653964bd7e12ab897ff0207c2ccc991618ffa081665638e4a"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 110,
+      "sha256": "db8eeef6e5782768211a9165f4c680d1371e54d9301a93f032e093b209043a85"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 110,
+      "sha256": "e52b00e5c3a7bbc09dd6a6dafeaa7f3b54abe63b309be3b6b103931316830333"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 110,
+      "sha256": "75a4e993a746cfd46575fc36bbe68f2cf1b789ee825b06fb92b485041c43237f"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 110,
+      "sha256": "6d78c93b0ca8c68a649889c09942d68352a71ed7b3b39b01fa7dfe3ef9fc95da"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 880,
+  "source_pose_indices_zero_based": null,
+  "unique_source_poses": 8
+}

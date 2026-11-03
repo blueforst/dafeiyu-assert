@@ -1,0 +1,75 @@
+{
+  "skin": "classic",
+  "action": "wave",
+  "canvas": [
+    384,
+    384
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "frames/000.png",
+      "duration_ms": 120,
+      "sha256": "5a703844dfc4129629128e8e56424d6a04f5e8171eb5a3d42072baa660631f24"
+    },
+    {
+      "file": "frames/001.png",
+      "duration_ms": 120,
+      "sha256": "47ec9e133b35c6acfc5fc045ec568a697fd8f6357f4e1e332d40fd4e473cdafc"
+    },
+    {
+      "file": "frames/002.png",
+      "duration_ms": 120,
+      "sha256": "21aa48d4c85a11a39d9cfb633683a8db592a67a6c2301017c885d597c206f5bf"
+    },
+    {
+      "file": "frames/003.png",
+      "duration_ms": 120,
+      "sha256": "0bc978bb72af0ffd4f864d24929475a8cee8cbdbaee9b4774beaf55fa51fe4e5"
+    },
+    {
+      "file": "frames/004.png",
+      "duration_ms": 120,
+      "sha256": "aa2e733372b8395cd18488be10147d7b6429909d0655e259e4177cd3c8559035"
+    },
+    {
+      "file": "frames/005.png",
+      "duration_ms": 120,
+      "sha256": "dee4e9450215ef29d0fccbf651ffa2fb6ec0533be00f79cc5afc3d166e2aa485"
+    },
+    {
+      "file": "frames/006.png",
+      "duration_ms": 120,
+      "sha256": "c6805c431f0dffea53b74d489d6d8edbc81efcaee218598d4c8a5dd63804d12a"
+    },
+    {
+      "file": "frames/007.png",
+      "duration_ms": 120,
+      "sha256": "66b5f9cf0444794ff04bf697b21ed4d4ef2be3f6662fbfe96bc5f36e2857f0db"
+    },
+    {
+      "file": "frames/008.png",
+      "duration_ms": 120,
+      "sha256": "868cc285e1ea807816886adb4747af00916a524cb1dd5c59b1d815ed52fb9bc1"
+    },
+    {
+      "file": "frames/009.png",
+      "duration_ms": 120,
+      "sha256": "1f8640af4979861786a37cc5f2589bd812c8cbba2d21cff8b8f5ce6976d327d7"
+    },
+    {
+      "file": "frames/010.png",
+      "duration_ms": 120,
+      "sha256": "2972b28e590957361423838874a37f802d4b7075b56cff58f241e6366720ea2a"
+    },
+    {
+      "file": "frames/011.png",
+      "duration_ms": 120,
+      "sha256": "c25196ee28558ad43fc724530300ad3a7709c270ea822749347e98c331f90364"
+    }
+  ],
+  "reverse_of_entry": false,
+  "total_duration_ms": 1440,
+  "source_pose_indices_zero_based": null,
+  "unique_source_poses": 12
+}
